@@ -1,0 +1,13 @@
+﻿@using EFCore2019.MVC.Models
+@model List<TestThuViewModel>
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    foreach (var item in Model)
+    {
+        <h1>item.Id</h1>
+    }
+}
+<h1>Index</h1>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EFCore2019.Domain</name>
+    </assembly>
+    <members>
+        <member name="F:EFCore2019.Domain.Enums.UserStatus.NotActived">
+            <summary>
+            Account is not active
+            </summary>
+        </member>
+        <member name="F:EFCore2019.Domain.Enums.UserStatus.Actived">
+            <summary>
+            Account is actived
+            </summary>
+        </member>
+        <member name="F:EFCore2019.Domain.Enums.UserStatus.Disabled">
+            <summary>
+            Account is disabled by admin
+            </summary>
+        </member>
+    </members>
+</doc>

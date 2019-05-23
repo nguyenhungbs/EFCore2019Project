@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Authentication\\EFCore2019.Authentication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Authentication\\EFCore2019.Authentication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Authentication\\EFCore2019.Authentication.csproj",
+        "projectName": "EFCore2019.Authentication",
+        "projectPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Authentication\\EFCore2019.Authentication.csproj",
+        "packagesPath": "C:\\Users\\hung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Authentication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\hung\\Documents": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Domain\\EFCore2019.Domain.csproj": {
+                "projectPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Domain\\EFCore2019.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "IdentityServer4.AccessTokenValidation": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "IdentityServer4.AspNetIdentity": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Domain\\EFCore2019.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Domain\\EFCore2019.Domain.csproj",
+        "projectName": "EFCore2019.Domain",
+        "projectPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Domain\\EFCore2019.Domain.csproj",
+        "packagesPath": "C:\\Users\\hung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\hung\\Documents": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Libraries\\EFCore2019.Libraries.csproj": {
+                "projectPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Libraries\\EFCore2019.Libraries.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Libraries\\EFCore2019.Libraries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Libraries\\EFCore2019.Libraries.csproj",
+        "projectName": "EFCore2019.Libraries",
+        "projectPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Libraries\\EFCore2019.Libraries.csproj",
+        "packagesPath": "C:\\Users\\hung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Libraries\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\hung\\Documents": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

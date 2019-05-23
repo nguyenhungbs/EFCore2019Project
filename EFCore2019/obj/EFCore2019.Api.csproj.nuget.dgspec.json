@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019\\EFCore2019.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Domain\\EFCore2019.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Domain\\EFCore2019.Domain.csproj",
+        "projectName": "EFCore2019.Domain",
+        "projectPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Domain\\EFCore2019.Domain.csproj",
+        "packagesPath": "C:\\Users\\hung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\hung\\Documents": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Libraries\\EFCore2019.Libraries.csproj": {
+                "projectPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Libraries\\EFCore2019.Libraries.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Libraries\\EFCore2019.Libraries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Libraries\\EFCore2019.Libraries.csproj",
+        "projectName": "EFCore2019.Libraries",
+        "projectPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Libraries\\EFCore2019.Libraries.csproj",
+        "packagesPath": "C:\\Users\\hung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Libraries\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\hung\\Documents": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019\\EFCore2019.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019\\EFCore2019.Api.csproj",
+        "projectName": "EFCore2019.Api",
+        "projectPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019\\EFCore2019.Api.csproj",
+        "packagesPath": "C:\\Users\\hung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\hung\\Documents": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Domain\\EFCore2019.Domain.csproj": {
+                "projectPath": "C:\\Users\\hung\\Source\\Repos\\EFCore2019\\EFCore2019.Domain\\EFCore2019.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Sinks.Sentry.AspNetCore": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

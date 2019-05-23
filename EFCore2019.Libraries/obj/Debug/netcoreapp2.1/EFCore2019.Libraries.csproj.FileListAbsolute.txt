@@ -1,0 +1,9 @@
+C:\Users\hung\Source\Repos\EFCore2019\EFCore2019.Libraries\bin\Debug\netcoreapp2.1\EFCore2019.Libraries.deps.json
+C:\Users\hung\Source\Repos\EFCore2019\EFCore2019.Libraries\bin\Debug\netcoreapp2.1\EFCore2019.Libraries.dll
+C:\Users\hung\Source\Repos\EFCore2019\EFCore2019.Libraries\bin\Debug\netcoreapp2.1\EFCore2019.Libraries.pdb
+C:\Users\hung\Source\Repos\EFCore2019\EFCore2019.Libraries\obj\Debug\netcoreapp2.1\EFCore2019.Libraries.csprojAssemblyReference.cache
+C:\Users\hung\Source\Repos\EFCore2019\EFCore2019.Libraries\obj\Debug\netcoreapp2.1\EFCore2019.Libraries.csproj.CoreCompileInputs.cache
+C:\Users\hung\Source\Repos\EFCore2019\EFCore2019.Libraries\obj\Debug\netcoreapp2.1\EFCore2019.Libraries.AssemblyInfoInputs.cache
+C:\Users\hung\Source\Repos\EFCore2019\EFCore2019.Libraries\obj\Debug\netcoreapp2.1\EFCore2019.Libraries.AssemblyInfo.cs
+C:\Users\hung\Source\Repos\EFCore2019\EFCore2019.Libraries\obj\Debug\netcoreapp2.1\EFCore2019.Libraries.dll
+C:\Users\hung\Source\Repos\EFCore2019\EFCore2019.Libraries\obj\Debug\netcoreapp2.1\EFCore2019.Libraries.pdb

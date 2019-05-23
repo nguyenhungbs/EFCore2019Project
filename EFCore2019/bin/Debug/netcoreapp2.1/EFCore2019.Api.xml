@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EFCore2019.Api</name>
+    </assembly>
+    <members>
+        <member name="M:EFCore2019.Api.ApiModules.TestController.SearchTest(EFCore2019.Domain.Models.PagingInfo.SearchModel{EFCore2019.Domain.Entities.TestThu})">
+            <summary>
+            Tìm kiếm kết hợp phân trang
+            </summary>
+            <param name="search"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
